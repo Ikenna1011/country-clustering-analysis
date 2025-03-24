@@ -26,7 +26,7 @@ This repository contains a comprehensive analysis and clustering of countries ba
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/country-clustering-analysis.git
+   git clone https://github.com/Ikenna1011/country-clustering-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
